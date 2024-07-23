@@ -7,6 +7,8 @@ A Binder-compatible repo with an `environment.yml` file.
 Access this Binder by clicking the blue badge above or at the following URL:
 https://mybinder.org/v2/gh/apetouhoff/R-Machine-Learning-.git/py37_r353
 
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/ 
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
